@@ -224,7 +224,7 @@ p {
   margin: 0 0 20px;
 }
 a {
-  border-bottom: 1px solid #999;
+  border-bottom: 1px solid $link-decoration-color;
   color: var(--link-color);
   cursor: pointer;
   outline: 0;
@@ -2381,6 +2381,20 @@ header.header {
 }
 .links-of-author-item a:hover {
   background: var(--body-bg-color);
+}
+.links-of-blogroll-item {
+  display: inline-block;
+  max-width: 100%;
+  margin: 5px 0 0;
+}
+.links-of-blogroll-item a {
+  box-sizing: border-box;
+  display: inline-block;
+  max-width: 100%;
+  overflow: hidden;
+  padding: 0 5px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .main-inner .sub-menu,
 .main-inner .post-block,
