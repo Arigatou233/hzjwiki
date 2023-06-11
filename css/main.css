@@ -1724,6 +1724,9 @@ pre code {
   top: 0;
   width: 100%;
 }
+.post-body a {
+  color: #00a0e9;
+}
 .post-gallery {
   display: flex;
   min-height: 200px;
