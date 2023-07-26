@@ -3,11 +3,11 @@
   <title>Anime Summary</title>
   
   
-  <link href="https://www.hzj.wiki/atom.xml" rel="self"/>
+  <link href="https://hzj.wiki/atom.xml" rel="self"/>
   
-  <link href="https://www.hzj.wiki/"/>
+  <link href="https://hzj.wiki/"/>
   <updated>2023-03-23T10:00:00.000Z</updated>
-  <id>https://www.hzj.wiki/</id>
+  <id>https://hzj.wiki/</id>
   
   <author>
     <name>番剧汇总酱</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Anime Summary</title>
-    <link href="https://www.hzj.wiki/index/"/>
-    <id>https://www.hzj.wiki/index/</id>
+    <link href="https://hzj.wiki/index/"/>
+    <id>https://hzj.wiki/index/</id>
     <published>2023-07-01T16:00:00.000Z</published>
     <updated>2023-03-23T10:00:00.000Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>2023年7月新番汇总</title>
-    <link href="https://www.hzj.wiki/202307/"/>
-    <id>https://www.hzj.wiki/202307/</id>
+    <link href="https://hzj.wiki/202307/"/>
+    <id>https://hzj.wiki/202307/</id>
     <published>2023-06-30T16:00:00.000Z</published>
     <updated>2023-06-30T16:00:00.000Z</updated>
     
@@ -61,14 +61,14 @@
     
     
     
-    <category term="2023年7月新番汇总" scheme="https://www.hzj.wiki/tags/2023%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
+    <category term="2023年7月新番汇总" scheme="https://hzj.wiki/tags/2023%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
     
   </entry>
   
   <entry>
     <title>2023年4月新番汇总</title>
-    <link href="https://www.hzj.wiki/202304/"/>
-    <id>https://www.hzj.wiki/202304/</id>
+    <link href="https://hzj.wiki/202304/"/>
+    <id>https://hzj.wiki/202304/</id>
     <published>2023-03-31T16:00:00.000Z</published>
     <updated>2023-03-31T16:00:00.000Z</updated>
     
@@ -88,14 +88,14 @@
     
     
     
-    <category term="2023年4月新番汇总" scheme="https://www.hzj.wiki/tags/2023%E5%B9%B44%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
+    <category term="2023年4月新番汇总" scheme="https://hzj.wiki/tags/2023%E5%B9%B44%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
     
   </entry>
   
   <entry>
     <title>2023年1月新番汇总</title>
-    <link href="https://www.hzj.wiki/202301/"/>
-    <id>https://www.hzj.wiki/202301/</id>
+    <link href="https://hzj.wiki/202301/"/>
+    <id>https://hzj.wiki/202301/</id>
     <published>2022-12-31T16:00:00.000Z</published>
     <updated>2022-12-31T16:00:00.000Z</updated>
     
@@ -119,14 +119,14 @@
     
     
     
-    <category term="2023年1月新番汇总" scheme="https://www.hzj.wiki/tags/2023%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
+    <category term="2023年1月新番汇总" scheme="https://hzj.wiki/tags/2023%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
     
   </entry>
   
   <entry>
     <title>2022年10月新番汇总</title>
-    <link href="https://www.hzj.wiki/202210/"/>
-    <id>https://www.hzj.wiki/202210/</id>
+    <link href="https://hzj.wiki/202210/"/>
+    <id>https://hzj.wiki/202210/</id>
     <published>2022-09-30T16:00:00.000Z</published>
     <updated>2022-09-30T16:00:00.000Z</updated>
     
@@ -149,14 +149,14 @@
     
     
     
-    <category term="2022年10月新番汇总" scheme="https://www.hzj.wiki/tags/2022%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
+    <category term="2022年10月新番汇总" scheme="https://hzj.wiki/tags/2022%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
     
   </entry>
   
   <entry>
     <title>2022年7月新番汇总</title>
-    <link href="https://www.hzj.wiki/202207/"/>
-    <id>https://www.hzj.wiki/202207/</id>
+    <link href="https://hzj.wiki/202207/"/>
+    <id>https://hzj.wiki/202207/</id>
     <published>2022-06-30T16:00:00.000Z</published>
     <updated>2022-06-30T16:00:00.000Z</updated>
     
@@ -179,14 +179,14 @@
     
     
     
-    <category term="2022年7月新番汇总" scheme="https://www.hzj.wiki/tags/2022%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
+    <category term="2022年7月新番汇总" scheme="https://hzj.wiki/tags/2022%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
     
   </entry>
   
   <entry>
     <title>2022年4月新番汇总</title>
-    <link href="https://www.hzj.wiki/202204/"/>
-    <id>https://www.hzj.wiki/202204/</id>
+    <link href="https://hzj.wiki/202204/"/>
+    <id>https://hzj.wiki/202204/</id>
     <published>2022-03-31T16:00:00.000Z</published>
     <updated>2022-03-31T16:00:00.000Z</updated>
     
@@ -209,14 +209,14 @@
     
     
     
-    <category term="2022年4月新番汇总" scheme="https://www.hzj.wiki/tags/2022%E5%B9%B44%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
+    <category term="2022年4月新番汇总" scheme="https://hzj.wiki/tags/2022%E5%B9%B44%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
     
   </entry>
   
   <entry>
     <title>2022年1月新番汇总</title>
-    <link href="https://www.hzj.wiki/202201/"/>
-    <id>https://www.hzj.wiki/202201/</id>
+    <link href="https://hzj.wiki/202201/"/>
+    <id>https://hzj.wiki/202201/</id>
     <published>2021-12-31T16:00:00.000Z</published>
     <updated>2021-12-31T16:00:00.000Z</updated>
     
@@ -239,14 +239,14 @@
     
     
     
-    <category term="2022年1月新番汇总" scheme="https://www.hzj.wiki/tags/2022%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
+    <category term="2022年1月新番汇总" scheme="https://hzj.wiki/tags/2022%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
     
   </entry>
   
   <entry>
     <title>2021年10月新番汇总</title>
-    <link href="https://www.hzj.wiki/202110/"/>
-    <id>https://www.hzj.wiki/202110/</id>
+    <link href="https://hzj.wiki/202110/"/>
+    <id>https://hzj.wiki/202110/</id>
     <published>2021-09-30T16:00:00.000Z</published>
     <updated>2021-09-30T16:00:00.000Z</updated>
     
@@ -269,14 +269,14 @@
     
     
     
-    <category term="2021年10月新番汇总" scheme="https://www.hzj.wiki/tags/2021%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
+    <category term="2021年10月新番汇总" scheme="https://hzj.wiki/tags/2021%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
     
   </entry>
   
   <entry>
     <title>2021年7月新番汇总</title>
-    <link href="https://www.hzj.wiki/202107/"/>
-    <id>https://www.hzj.wiki/202107/</id>
+    <link href="https://hzj.wiki/202107/"/>
+    <id>https://hzj.wiki/202107/</id>
     <published>2021-06-30T16:00:00.000Z</published>
     <updated>2021-06-30T16:00:00.000Z</updated>
     
@@ -301,14 +301,14 @@
     
     
     
-    <category term="2021年7月新番汇总" scheme="https://www.hzj.wiki/tags/2021%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
+    <category term="2021年7月新番汇总" scheme="https://hzj.wiki/tags/2021%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
     
   </entry>
   
   <entry>
     <title>2021年4月新番汇总</title>
-    <link href="https://www.hzj.wiki/202104/"/>
-    <id>https://www.hzj.wiki/202104/</id>
+    <link href="https://hzj.wiki/202104/"/>
+    <id>https://hzj.wiki/202104/</id>
     <published>2021-03-31T16:00:00.000Z</published>
     <updated>2021-03-31T16:00:00.000Z</updated>
     
@@ -333,14 +333,14 @@
     
     
     
-    <category term="2021年4月新番汇总" scheme="https://www.hzj.wiki/tags/2021%E5%B9%B44%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
+    <category term="2021年4月新番汇总" scheme="https://hzj.wiki/tags/2021%E5%B9%B44%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
     
   </entry>
   
   <entry>
     <title>剧场版/OVA/SP等</title>
-    <link href="https://www.hzj.wiki/sp/"/>
-    <id>https://www.hzj.wiki/sp/</id>
+    <link href="https://hzj.wiki/sp/"/>
+    <id>https://hzj.wiki/sp/</id>
     <published>2021-01-19T16:00:00.000Z</published>
     <updated>2021-01-19T16:00:00.000Z</updated>
     
