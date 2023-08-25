@@ -355,7 +355,7 @@
     <published>2021-01-19T16:00:00.000Z</published>
     <updated>2021-01-19T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<style>    .two{        text-indent: 2em    }</style><p style="color:red">本周更新:</p><p style="color:purple">«文豪野犬  第五季» 第01话<small>点击跳转</small></a></p><body>    <table border="2">        <tbody>            <tr>                <td>                    <font color="#CE0000">                        <b>                            阅读指南⇊                        </b>                    </font>                    <p class="two"> 本文由汇总酱查阅汇总，仅供剧情参考使用.</p>                    <p class="two"> 时间点是进度条的大致位置，时间是丢失画面(字幕)的大致时长.</p>                </td>                <br>            </tr>        </tbody>    </table></body><hr><details><summary><p><b>命运-冠位指定-神圣圆桌领域卡美洛</b></p></summary><table  border="2"><tbody><tr><td><p><center>本文由汇总酱查阅汇总，仅供剧情参考使用!</center></p><p><center>时间点是进度条的大致位置，时间是丢失画面(字幕)的大致时长！</center></p></td></tr></tbody></table><img src="https://article.biliimg.com/bfs/article/887c5ca531651891b370a067378a8d3f2f0e83d8.jpg"  alt="海报" title="海报"/><p><a href ="https://b23.tv/ep745491" target=_blank>前篇</a><br><a href =""></a></p><h6>1：09：35 画面丢失 4s</h6></details>]]></content>
+    <content type="html"><![CDATA[<style>    .two{        text-indent: 2em    }</style><body>    <table border="2">        <tbody>            <tr>                <td>                    <font color="#CE0000">                        <b>                            阅读指南⇊                        </b>                    </font>                    <p class="two"> 本文由汇总酱查阅汇总，仅供剧情参考使用.</p>                    <p class="two"> 时间点是进度条的大致位置，时间是丢失画面(字幕)的大致时长.</p>                </td>                <br>            </tr>        </tbody>    </table></body><hr><details><summary><p><b>命运-冠位指定-神圣圆桌领域卡美洛</b></p></summary><table  border="2"><tbody><tr><td><p><center>本文由汇总酱查阅汇总，仅供剧情参考使用!</center></p><p><center>时间点是进度条的大致位置，时间是丢失画面(字幕)的大致时长！</center></p></td></tr></tbody></table><img src="https://article.biliimg.com/bfs/article/887c5ca531651891b370a067378a8d3f2f0e83d8.jpg"  alt="海报" title="海报"/><p><a href ="https://b23.tv/ep745491" target=_blank>前篇</a><br><a href =""></a></p><h6>1：09：35 画面丢失 4s</h6></details>]]></content>
     
     
       
@@ -365,8 +365,11 @@
         text-indent: 2em
     }
 &lt;/style&gt;
-&lt;p style=&quot;color:red&quot;&gt;本周更新:&lt;/p&gt;
-&lt;p style=&quot;color:purple&quot;&gt;«文豪野犬  第五季» 第01话&lt;small&gt;点击跳转</summary>
+&lt;body&gt;
+    &lt;table border=&quot;2&quot;&gt;
+        &lt;tbody&gt;
+            &lt;tr&gt;
+                &lt;td</summary>
       
     
     
