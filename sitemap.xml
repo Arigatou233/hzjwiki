@@ -110,13 +110,6 @@
 
   
   <url>
-    <loc>https://hzj.wiki/tags/2021%E5%B9%B44%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/</loc>
-    <lastmod>2023-09-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hzj.wiki/tags/2021%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/</loc>
     <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -131,7 +124,7 @@
   </url>
   
   <url>
-    <loc>https://hzj.wiki/tags/2022%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/</loc>
+    <loc>https://hzj.wiki/tags/2021%E5%B9%B44%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/</loc>
     <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -152,6 +145,13 @@
   </url>
   
   <url>
+    <loc>https://hzj.wiki/tags/2023%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/</loc>
+    <lastmod>2023-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hzj.wiki/tags/2023%E5%B9%B44%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/</loc>
     <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -166,14 +166,14 @@
   </url>
   
   <url>
-    <loc>https://hzj.wiki/tags/2022%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/</loc>
+    <loc>https://hzj.wiki/tags/2022%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/</loc>
     <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hzj.wiki/tags/2023%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/</loc>
+    <loc>https://hzj.wiki/tags/2022%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/</loc>
     <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
