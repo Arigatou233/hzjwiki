@@ -23,7 +23,7 @@
     <published>2023-08-01T16:00:00.000Z</published>
     <updated>2023-03-23T10:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<style>    .maincss{        overflow: hidden;            padding: 20px;            display: flex;        border: 2px solid #999999;        margin: 20px auto;width:87%;        border-radius: 10px;}    .leftcss{        float:left;        width:30%;        display: flex;        justify-content: center;        align-items: center;}    .rightcss{        float:left;        width:65%;}    .rightcss a:last-child img {        margin-bottom: 0;    }</style><div class="maincss">    <div class="leftcss">        <b>2023年</b>    </div>    <div class="rightcss">        <a href="/202307/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/330414bf01091e8d7794764d9fcca977512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202304/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/abc0fd81cbe5fcabc4bf0bd14cb7ebb0512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202301/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/1c792e05b236ef905b9cd97b30438bfb512995925.png"                        referrerpolicy="no-referrer"></a>    </div></div><div class="maincss">    <div class="leftcss">        <b>2022年</b>    </div>    <div class="rightcss">        <a href="/202210/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/4a7be327dcc03eb33d4e5ef85aeba2c6512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202207/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/330414bf01091e8d7794764d9fcca977512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202204/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/abc0fd81cbe5fcabc4bf0bd14cb7ebb0512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202201/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/1c792e05b236ef905b9cd97b30438bfb512995925.png"                        referrerpolicy="no-referrer"></a>    </div></div><div class="maincss">    <div class="leftcss">        <b>2021年</b>    </div>    <div class="rightcss">        <a href="/202110/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/4a7be327dcc03eb33d4e5ef85aeba2c6512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202107/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/330414bf01091e8d7794764d9fcca977512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202104/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/abc0fd81cbe5fcabc4bf0bd14cb7ebb0512995925.png"                        referrerpolicy="no-referrer"></a>    </div></div>]]></content>
+    <content type="html"><![CDATA[<style>    .maincss{        overflow: hidden;            padding: 20px;            display: flex;        border: 2px solid #999999;        margin: 20px auto;width:87%;        border-radius: 10px;}    .leftcss{        float:left;        width:30%;        display: flex;        justify-content: center;        align-items: center;}    .rightcss{        float:left;        width:65%;}    .rightcss a:last-child img {        margin-bottom: 0;    }</style><div class="maincss">    <div class="leftcss">        <b>2023年</b>    </div>    <div class="rightcss">        <a href="/202310/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/4a7be327dcc03eb33d4e5ef85aeba2c6512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202307/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/330414bf01091e8d7794764d9fcca977512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202304/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/abc0fd81cbe5fcabc4bf0bd14cb7ebb0512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202301/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/1c792e05b236ef905b9cd97b30438bfb512995925.png"                        referrerpolicy="no-referrer"></a>    </div></div><div class="maincss">    <div class="leftcss">        <b>2022年</b>    </div>    <div class="rightcss">        <a href="/202210/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/4a7be327dcc03eb33d4e5ef85aeba2c6512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202207/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/330414bf01091e8d7794764d9fcca977512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202204/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/abc0fd81cbe5fcabc4bf0bd14cb7ebb0512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202201/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/1c792e05b236ef905b9cd97b30438bfb512995925.png"                        referrerpolicy="no-referrer"></a>    </div></div><div class="maincss">    <div class="leftcss">        <b>2021年</b>    </div>    <div class="rightcss">        <a href="/202110/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/4a7be327dcc03eb33d4e5ef85aeba2c6512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202107/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/330414bf01091e8d7794764d9fcca977512995925.png"                        referrerpolicy="no-referrer"></a>        <a href="/202104/"><img                        src="https://i0.hdslb.com/bfs/new_dyn/abc0fd81cbe5fcabc4bf0bd14cb7ebb0512995925.png"                        referrerpolicy="no-referrer"></a>    </div></div>]]></content>
     
     
       
@@ -67,6 +67,29 @@
     
     
     <category term="2023年7月新番汇总" scheme="https://hzj.wiki/tags/2023%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2023年10月新番汇总</title>
+    <link href="https://hzj.wiki/202310/"/>
+    <id>https://hzj.wiki/202310/</id>
+    <published>2023-05-19T16:00:00.000Z</published>
+    <updated>2023-09-30T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>待更新</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;待更新&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="2023年10月新番汇总" scheme="https://hzj.wiki/tags/2023%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E6%B1%87%E6%80%BB/"/>
     
   </entry>
   
