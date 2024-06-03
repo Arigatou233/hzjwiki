@@ -1743,18 +1743,26 @@ details {
   padding: 10px;
 }
 summary {
+  display: flex; /* 图*/
+  align-items: center; /* 图*/
   cursor: pointer;
   font-weight: bold;
   padding: 10px;
 }
-hr {
+details summary img {
+  width: 60x;
+  height: 50px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+details hr {
   border: 0; /* 清除默认的边框样式 */
   height: 1px; /* 设置分割线的高度 */
   background-color: #ccc; /* 设置分割线的颜色 */
   margin-top: 25px; /* 设置分割线与上方内容的间距 */
   margin-bottom: 15px; /* 设置分割线与下方内容的间距 */
 }
-code {
+details code {
   display: block;
   font-family: monospace; /* 设置字体 */
   color: #000; /* 设置颜色 */
