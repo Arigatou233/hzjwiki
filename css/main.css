@@ -1737,23 +1737,23 @@ td p {
   text-indent: 2em;
 }
 details {
-  margin-bottom: 20px;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-  padding: 10px;
+  margin-bottom: 20px; /* 设置下边距为20像素 */
+  border-radius: 5px; /* 设置边框的圆角半径为5像素 */
+  border: 1px solid #ccc; /* 设置边框为1像素灰色实线 */
+  padding: 10px; /* 设置内边距为10像素 */
 }
 summary {
-  display: flex; /* 图*/
-  align-items: center; /* 图*/
-  cursor: pointer;
-  font-weight: bold;
-  padding: 10px;
+  display: flex; /* 使用 flex 布局 （标题图）*/
+  align-items: center; /* 垂直居中对齐（标题图） */
+  cursor: pointer; /* 设置光标为手型 */
+  font-weight: bold; /* 设置字体加粗 */
+  padding: 10px; /* 设置内边距为10像素 */
 }
 details summary img {
-  width: 60x;
-  height: 50px;
-  object-fit: cover;
-  margin-right: 10px;
+  width: 60x; /* 设置图片宽度为60像素 */
+  height: 50px; /* 设置图片高度为50像素 */
+  object-fit: cover; /* 图片适应容器并保持比例 */
+  margin-right: 10px; /* 设置右外边距为10像素 */
 }
 details hr {
   border: 0; /* 清除默认的边框样式 */
@@ -1763,16 +1763,33 @@ details hr {
   margin-bottom: 15px; /* 设置分割线与下方内容的间距 */
 }
 details code {
-  display: block;
-  font-family: monospace; /* 设置字体 */
-  color: #000; /* 设置颜色 */
-  background-color: #f0f0f0; /* 设置背景颜色 */
-  padding: 5px; /* 设置内边距 */
-  margin-left: 0px; /* 设置左边距 */
-  margin-right: 0px; /* 设置右边距 */
-  font-size: 13px;
-  font-weight: bold;
-  border-radius: 0px; /* 圆角边框 */
+  display: block; /* 将代码块显示为块级元素 */
+  font-family: monospace; /* 使用等宽字体 */
+  color: #000; /* 设置字体颜色为黑色 */
+  background-color: #f0f0f0; /* 设置背景颜色为浅灰色 */
+  padding: 5px; /* 设置内边距为5像素 */
+  margin-left: 0px; /* 设置左外边距为0像素 */
+  margin-right: 0px; /* 设置右外边距为0像素 */
+  font-size: 13px; /* 设置字体大小为13像素 */
+  font-weight: bold; /* 设置字体粗细为粗体 */
+  border-radius: 0px; /* 设置边框的圆角半径为0像素 */
+}
+button {
+  display: block; /* 设置按钮为块级元素 */
+  margin: 0 auto; /* 水平居中 */
+  margin-top: 0.5px; /* 上边距 */
+  text-align: center; /* 文本居中 */
+  color: #007bff; /* 字体颜色 */
+  background-color: #d3d3d3; /* 按钮背景色 */
+  border: none; /* 移除按钮边框 */
+  border-radius: 20px; /* 控制按钮的圆角 */
+  padding: 10px 20px; /* 控制按钮的内边距 */
+  cursor: pointer; /* 鼠标悬停样式为手型 */
+  font-size: 16px; /* 字体大小 */
+  transition: background-color 0.3s ease; /* 按钮背景色过渡效果 */
+}
+button:hover {
+  background-color: #0056b3; /* 按钮悬停时的背景色 */
 }
 .post-gallery {
   display: flex;
