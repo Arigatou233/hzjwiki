@@ -1742,6 +1742,10 @@ details {
   border: 1px solid #ccc; /* 设置边框为1像素灰色实线 */
   padding: 10px; /* 设置内边距为10像素 */
 }
+summary p {
+  margin: 0;
+  margin-bottom: 15px;
+}
 summary {
   display: flex; /* 使用 flex 布局 （标题图）*/
   align-items: center; /* 垂直居中对齐（标题图） */
@@ -1782,10 +1786,10 @@ button {
   color: #007bff; /* 字体颜色 */
   background-color: #d3d3d3; /* 按钮背景色 */
   border: none; /* 移除按钮边框 */
-  border-radius: 20px; /* 控制按钮的圆角 */
-  padding: 10px 20px; /* 控制按钮的内边距 */
+  border-radius: 15px; /* 控制按钮的圆角 */
+  padding: 5px 10px; /* 控制按钮的内边距 */
   cursor: pointer; /* 鼠标悬停样式为手型 */
-  font-size: 16px; /* 字体大小 */
+  font-size: 14px; /* 字体大小 */
   transition: background-color 0.3s ease; /* 按钮背景色过渡效果 */
 }
 button:hover {
