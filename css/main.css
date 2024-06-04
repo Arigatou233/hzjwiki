@@ -1733,12 +1733,8 @@ pre code {
 .post-body a {
   color: #000;
 }
-details summary {
-  list-style: none; /* 移除默认列表样式 */
-  cursor: pointer; /* 添加指针光标 */
-}
 details summary::-webkit-details-marker {
-  display: none; /* 移除 WebKit 浏览器中的默认箭头 */
+  display: none;
 }
 td p {
   text-indent: 2em;
@@ -1749,11 +1745,13 @@ details {
   border: 1px solid #ccc; /* 设置边框为1像素灰色实线 */
   padding: 10px; /* 设置内边距为10像素 */
 }
-summary p {
+details summary p {
   margin: 0;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
-summary {
+details summary {
+  list-style: none; /* 移除默认列表样式 */
+  cursor: pointer; /* 添加指针光标 */
   display: flex; /* 使用 flex 布局 （标题图）*/
   align-items: center; /* 垂直居中对齐（标题图） */
   cursor: pointer; /* 设置光标为手型 */
