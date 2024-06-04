@@ -1750,6 +1750,7 @@ details summary p {
   margin-bottom: 25px;
 }
 details summary {
+  margin-bottom: -20px; /* 将下划线上移10像素 */
   list-style: none; /* 移除默认列表样式 */
   cursor: pointer; /* 添加指针光标 */
   display: flex; /* 使用 flex 布局 （标题图）*/
@@ -1782,23 +1783,6 @@ details code {
   font-size: 13px; /* 设置字体大小为13像素 */
   font-weight: bold; /* 设置字体粗细为粗体 */
   border-radius: 0px; /* 设置边框的圆角半径为0像素 */
-}
-button {
-  display: block; /* 设置按钮为块级元素 */
-  margin: 0 auto; /* 水平居中 */
-  margin-top: 0.5px; /* 上边距 */
-  text-align: center; /* 文本居中 */
-  color: #007bff; /* 字体颜色 */
-  background-color: #d3d3d3; /* 按钮背景色 */
-  border: none; /* 移除按钮边框 */
-  border-radius: 15px; /* 控制按钮的圆角 */
-  padding: 5px 10px; /* 控制按钮的内边距 */
-  cursor: pointer; /* 鼠标悬停样式为手型 */
-  font-size: 14px; /* 字体大小 */
-  transition: background-color 0.3s ease; /* 按钮背景色过渡效果 */
-}
-button:hover {
-  background-color: #0056b3; /* 按钮悬停时的背景色 */
 }
 .post-gallery {
   display: flex;
