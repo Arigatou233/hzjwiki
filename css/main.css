@@ -1734,7 +1734,11 @@ pre code {
   color: #000;
 }
 details summary {
-  list-style: none;
+  list-style: none; /* 移除默认列表样式 */
+  cursor: pointer; /* 添加指针光标 */
+}
+details summary::-webkit-details-marker {
+  display: none; /* 移除 WebKit 浏览器中的默认箭头 */
 }
 td p {
   text-indent: 2em;
