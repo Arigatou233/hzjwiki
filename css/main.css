@@ -1733,6 +1733,9 @@ pre code {
 .post-body a {
   color: #000;
 }
+details summary {
+  list-style: none;
+}
 td p {
   text-indent: 2em;
 }
