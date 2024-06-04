@@ -273,7 +273,7 @@
 </body>
 
 <!-- 吹响吧！上低音号 第三季 -->
-<details>
+<details id="1">
     <summary>
         <img src="https://i0.hdslb.com/bfs/new_dyn/211f083bd07494761b1c1e132f72c3ba512995925.jpg" alt="" title="">
         <p><b>吹响吧！上低音号 第三季<sup style="color: green;">(更新中)</sup></b></p>
@@ -288,7 +288,17 @@
         05：20 画面和谐<br>
         05：21 画面丢失 3s
     </code>
+    <button onclick="toggleDetails('1')" style="display: block; margin: 0 auto; margin-top: 0.5px;">收起</button>
 </details>
+
+<script>
+    function toggleDetails(id) {
+        const detailsElement = document.getElementById(id);
+        if (detailsElement) {
+            detailsElement.open = !detailsElement.open;
+        }
+    }
+</script>
 
 <!-- 晚的水母不会游泳 -->
 <details>
