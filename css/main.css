@@ -1734,7 +1734,7 @@ pre code {
   color: #000;
 }
 details summary::-webkit-details-marker {
-  display: none;
+  display: none; /* 移除 WebKit 浏览器中的默认箭头 */
 }
 td p {
   text-indent: 2em;
