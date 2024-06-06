@@ -1733,6 +1733,29 @@ pre code {
 .post-body a {
   color: #000;
 }
+.maincss {
+  overflow: hidden;
+  padding: 20px;
+  display: flex;
+  border: 2px solid #999;
+  margin: 20px auto;
+  width: 87%;
+  border-radius: 10px;
+}
+.leftcss {
+  float: left;
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.rightcss {
+  float: left;
+  width: 65%;
+}
+.rightcss a:last-child img {
+  margin-bottom: 0;
+}
 details summary::-webkit-details-marker {
   display: none; /* 移除 WebKit 浏览器中的默认箭头 */
 }
@@ -1773,6 +1796,8 @@ details hr {
   margin-bottom: 15px; /* 设置分割线与下方内容的间距 */
 }
 details code {
+  margin-left: 10px; /* 左边距(配合code::before) */
+  position: relative; /* 相对定位(配合code::before) */
   display: block; /* 将代码块显示为块级元素 */
   font-family: monospace; /* 使用等宽字体 */
   color: #000; /* 设置字体颜色为黑色 */
@@ -1783,6 +1808,16 @@ details code {
   font-size: 13px; /* 设置字体大小为13像素 */
   font-weight: bold; /* 设置字体粗细为粗体 */
   border-radius: 0px; /* 设置边框的圆角半径为0像素 */
+}
+details code::before {
+  content: "";
+  position: absolute; /* 绝对定位 */
+  top: 50%; /* 顶部偏移量 */
+  left: -6px; /* 左侧位置 */
+  width: 2px; /* 线宽 */
+  height: 100%; /* 高度 */
+  background-color: #f00 /* 线条颜色 */;
+  transform: translateY(-50%); /* 线条居中 */
 }
 .post-gallery {
   display: flex;
