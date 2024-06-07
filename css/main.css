@@ -1769,7 +1769,7 @@ details {
   padding: 10px; /* 设置内边距为10像素 */
 }
 details a {
-  font-size: 1.2em;
+  font-size: 1em;
   font-weight: bold;
   color: #000 !important; /* 使用 !important 增加优先级 */
 }
