@@ -1768,6 +1768,11 @@ details {
   border: 1px solid #ccc; /* 设置边框为1像素灰色实线 */
   padding: 10px; /* 设置内边距为10像素 */
 }
+details a {
+  font-size: 0.83em;
+  font-weight: bold;
+  color: #000 !important; /* 使用 !important 增加优先级 */
+}
 details summary p {
   margin: 0;
   margin-bottom: 25px;
