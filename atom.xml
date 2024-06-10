@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Anime Summary</title>
+  <title>番剧删减表</title>
   
   
   <link href="https://hzj.wiki/atom.xml" rel="self"/>
@@ -17,7 +17,7 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Anime Summary</title>
+    <title>番剧删减表</title>
     <link href="https://hzj.wiki/index/"/>
     <id>https://hzj.wiki/index/</id>
     <published>2024-04-01T16:00:00.000Z</published>
