@@ -1,5 +1,15 @@
-# hexo robots.txt
 User-agent: *
 Allow: /
+Allow: /home/
+Allow: /about/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+Disallow: /categories/
 
 Sitemap: https://hzj.wiki/sitemap.xml
