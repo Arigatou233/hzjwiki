@@ -5,11 +5,21 @@ Allow: /about/
 Allow: /archives/
 Allow: /categories/
 Allow: /tags/
+Allow: /page/
+Allow: /index/
+Allow: /images/
+Allow: /202104/
+Allow: /202107/
+Allow: /202110/
+Allow: /202204/
+Allow: /202207/
+Allow: /202210/
+Allow: /202304/
+Allow: /202307/
+Allow: /202310/
+Allow: /202401/
+Allow: /202404/
 Disallow: /js/
 Disallow: /css/
-Disallow: /fonts/
-Disallow: /vendors/
-Disallow: /fancybox/
-Disallow: /categories/
 
 Sitemap: https://hzj.wiki/sitemap.xml
