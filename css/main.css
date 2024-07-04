@@ -1800,6 +1800,9 @@ details hr {
   margin-top: 25px; /* 设置分割线与上方内容的间距 */
   margin-bottom: 15px; /* 设置分割线与下方内容的间距 */
 }
+sup {
+  color: #008000;
+}
 details code {
   display: block; /* 将代码块显示为块级元素 */
   font-family: monospace; /* 使用等宽字体 */
