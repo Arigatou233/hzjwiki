@@ -1763,6 +1763,7 @@ td p {
   text-indent: 2em;
 }
 details {
+  content: attr(title); /* 显示 title 属性的内容 */
   margin-bottom: 20px; /* 设置下边距为20像素 */
   border-radius: 5px; /* 设置边框的圆角半径为5像素 */
   border: 1px solid #ccc; /* 设置边框为1像素灰色实线 */
@@ -1812,7 +1813,6 @@ details code {
   margin-left: 0px; /* 设置左外边距为0像素 */
   margin-right: 0px; /* 设置右外边距为0像素 */
   font-size: 13px; /* 设置字体大小为13像素 */
-  font-weight: bold; /* 设置字体粗细为粗体 */
   border-radius: 0px; /* 设置边框的圆角半径为0像素 */
 }
 .post-gallery {
