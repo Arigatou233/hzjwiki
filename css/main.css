@@ -1814,6 +1814,22 @@ details code {
   font-size: 13px; /* 设置字体大小为13像素 */
   border-radius: 0px; /* 设置边框的圆角半径为0像素 */
 }
+@media (max-width: 600px) {
+  .full-title {
+    display: none;
+  }
+  .short-title {
+    display: inline;
+  }
+}
+@media (min-width: 601px) {
+  .full-title {
+    display: inline;
+  }
+  .short-title {
+    display: none;
+  }
+}
 .post-gallery {
   display: flex;
   min-height: 200px;
