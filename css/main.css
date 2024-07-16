@@ -1789,7 +1789,7 @@ details summary {
 }
 details summary img {
   width: 60x; /* 设置图片宽度为60像素 */
-  height: 50px; /* 设置图片高度为50像素 */
+  height: 60px; /* 设置图片高度为50像素 */
   object-fit: cover; /* 图片适应容器并保持比例 */
   margin-right: 10px; /* 设置右外边距为10像素 */
 }
