@@ -1801,7 +1801,7 @@ details hr {
   margin-bottom: 15px; /* 设置分割线与下方内容的间距 */
 }
 sup {
-  color: #008000;
+  color: #f00;
 }
 details code {
   display: block; /* 将代码块显示为块级元素 */
