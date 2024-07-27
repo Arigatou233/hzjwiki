@@ -1807,7 +1807,7 @@ details code {
   display: block; /* 将代码块显示为块级元素 */
   font-family: monospace; /* 使用等宽字体 */
   color: #000; /* 设置字体颜色为黑色 */
-  background-color: #f0f0f0; /* 设置背景颜色为浅灰色 */
+  background-color: #e4e1d8; /* 设置背景颜色为浅灰色 */
   padding: 5px; /* 设置内边距为5像素 */
   margin-left: 0px; /* 设置左外边距为0像素 */
   margin-right: 0px; /* 设置右外边距为0像素 */
